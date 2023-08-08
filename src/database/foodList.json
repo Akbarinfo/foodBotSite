@@ -1,0 +1,55 @@
+[{
+    "id": 1,
+    "name": "KFC",
+    "images": "/images/kfc.svg",
+    "link": "https://t.me/kfcuzdeliverybot"
+  },
+  {
+    "id": 2,
+    "name": "Belissimo",
+    "images": "/images/belissimo.svg",
+    "link": "https://t.me/BelissimoPizza_bot"
+  },
+  {
+    "id": 3,
+    "name": "Evos",
+    "images": "/images/evos.svg",
+    "link": "https://t.me/evosdeliverybot"
+  },
+  {
+    "id": 4,
+    "name": "Oqtepa",
+    "images": "/images/oqtepe.svg",
+    "link": "https://t.me/oqtepalavash_bot"
+  },
+  {
+    "id": 5,
+    "name": "Chopar",
+    "images": "/images/chopar.svg",
+    "link": "https://t.me/Chopar_bot"
+  },
+  {
+    "id": 6,
+    "name": "MaxMay",
+    "images": "/images/maxway.svg",
+    "link": "https://t.me/maxwaymasterfood_bot"
+  },
+  {
+    "id": 7,
+    "name": "Feed Up",
+    "images": "/images/feedup.svg",
+    "link": ""
+  },
+  {
+    "id": 8,
+    "name": "Doda Pizza",
+    "images": "/images/dodapizza.svg",
+    "link": ""
+  },
+  {
+    "id": 9,
+    "name": "Street 77",
+    "images": "/images/street77.svg",
+    "link": ""
+  }
+]
